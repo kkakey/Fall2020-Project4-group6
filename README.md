@@ -47,3 +47,15 @@ proj/
 ```
 
 Please see each subfolder for a README file.
+
+Contribution Statement: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this Github repository including this contributions staement.
+
+Mubai: Code the Weighted regression + L1 penalization logistic regression method. edited the presentation slides, modified main rmd.
+
+Wen yin: Assist with coding the Weighted regression + L1 penalization logistic regression method. Create the presentation slides, assist with modifying and kniting main rmd.
+
+Citina: Code Regression Estimate method and created plots in main report.
+
+Kristen: Create the main report pdf and assisted with coding inverse Propensity Weighting(IPW) +L1 penalized Logistic regression.
+
+Rui: Code inverse Propensity Weighting(IPW) +L1 penalized Logistic regression.
