@@ -18,14 +18,14 @@ Term: Fall 2020
 Performance - squared difference of true ATE and estimated ATE
 
 | High Dim. Dataset |
-| Model      |Computational Cost| Performance | 
+| Model      |ATE| Performance | 
 | ----------- | ----------- | ------    |
 | Inverse Propensity Weighting (IPW) + L1 penalized Logistics regression     |  -2.218    |  0.88     | 
 | Regression Estimate (Dont need Propensity Score)      |  -2.959      |   0.20    | 
 | Weighted Regression + L1 penalized Logistics regression      |   -2.980    |   0.14    |
 
 | Low Dim. Dataset |
-| Model      |Computational Cost| Performance | 
+| Model      |ATE| Performance | 
 | ----------- | ----------- | ------    |
 | Inverse Propensity Weighting (IPW) + L1 penalized Logistics regression     |   2.210    |  0.54     | 
 | Regression Estimate (Dont need Propensity Score)      |   2.526   |  0.16     | 
@@ -33,13 +33,13 @@ Performance - squared difference of true ATE and estimated ATE
 
 **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-Mubai: Code the Weighted regression + L1 penalization logistic regression method. edited the presentation slides, modified main rmd.
+Mubai: Coded the Weighted regression + L1 penalization logistic regression method. He edited the presentation slides, modified main rmd.
 
-Wen yin: Assist with coding the Weighted regression + L1 penalization logistic regression method. Create the presentation slides, assist with modifying and kniting main rmd.
+Wen: Assisted with coding the Weighted regression + L1 penalization logistic regression method. He created the presentation slides, assisted with modifying and kniting main rmd.
 
-Citina: Code Regression Estimate method and created plots in main report.
+Citina: Coded Regression Estimate method and created plots in main report.
 
-Kristen: Create the main report pdf and assisted with coding inverse Propensity Weighting(IPW) +L1 penalized Logistic regression.
+Kristen: Created the main report pdf and assisted with coding inverse Propensity Weighting(IPW) +L1 penalized Logistic regression.
 
 Rui: Code inverse Propensity Weighting(IPW) +L1 penalized Logistic regression.
 
